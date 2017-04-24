@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EntranceTest</string>
+    <string name="tab_translate">TRANSLATE</string>
+    <string name="tab_history">HISTORY</string>
+    <string name="tab_bookmark">BOOKMARKS</string>
+    <string name="tab_settings">SETTINGS</string>
+</resources>
